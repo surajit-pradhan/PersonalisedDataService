@@ -33,3 +33,6 @@ Find below files for detailed requirements
 [HomeAssignment_Recommendations.pdf](https://github.com/surajit-pradhan/PersonalisedDataService/files/14883710/HomeAssignment_Recommendations.pdf)
 [Backend software developer - HomeAssignment (1).pdf](https://github.com/surajit-pradhan/PersonalisedDataService/files/14883709/Backend.software.developer.-.HomeAssignment.1.pdf)
 
+Below are the redis and postman collection details
+[REDIS_INSTALL.txt](https://github.com/surajit-pradhan/PersonalisedDataService/files/14883761/REDIS_INSTALL.txt)
+[PersonalisedService.postman_collection.json](https://github.com/surajit-pradhan/PersonalisedDataService/files/14883762/PersonalisedService.postman_collection.json)
