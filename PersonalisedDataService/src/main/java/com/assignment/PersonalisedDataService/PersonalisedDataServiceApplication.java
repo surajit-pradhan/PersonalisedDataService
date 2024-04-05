@@ -8,7 +8,6 @@ public class PersonalisedDataServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PersonalisedDataServiceApplication.class, args);
-		
 	}
 
 }
